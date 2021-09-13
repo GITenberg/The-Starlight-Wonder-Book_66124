@@ -1,5 +1,5 @@
 _repo: The-Starlight-Wonder-Book_66124
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Day, Maurice
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '53645'
     url: http://www.gutenberg.org/2009/agents/53645
     wikipedia: https://en.wikipedia.org/wiki/Jake_Day
+covers:
+- cover_type: archival
+  image_path: 66124-h/images/cover.jpg
 creator:
   author:
     agent_name: Beston, Henry
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4320
     wikipedia: https://en.wikipedia.org/wiki/Henry_Beston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66124#The-Starlight-Wonder-Book
 gutenberg_issued: '2021-08-23'
 identifiers:
   gutenberg: '66124'
