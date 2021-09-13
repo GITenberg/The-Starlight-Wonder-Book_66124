@@ -1,0 +1,45 @@
+_repo: The-Starlight-Wonder-Book_66124
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Day, Maurice
+    aliases:
+    - Day, Maurice Ellicott
+    - Day, Jake
+    birthdate: 1892
+    deathdate: 1983
+    gutenberg_agent_id: '53645'
+    url: http://www.gutenberg.org/2009/agents/53645
+    wikipedia: https://en.wikipedia.org/wiki/Jake_Day
+creator:
+  author:
+    agent_name: Beston, Henry
+    aliases:
+    - Beston, Henry B.
+    - Sheahan, Henry Edouard
+    birthdate: 1888
+    deathdate: 1968
+    gutenberg_agent_id: '4320'
+    url: http://www.gutenberg.org/2009/agents/4320
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Beston
+description: ''
+gutenberg_issued: '2021-08-23'
+identifiers:
+  gutenberg: '66124'
+  lccn: '23013421'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: The brave grenadier -- The Palace of the Night -- The enchanted baby
+  -- The two millers -- The adamant door -- The city of the winter sleep -- Aileel
+  and Ailinda -- The wonderful tune -- The Man of the Wildwood -- The Maiden of the
+  Mountain -- The bell of the earth and the bell of the sea -- The wood beyond the
+  world.
+title: The Starlight Wonder Book
+url: http://www.gutenberg.org/ebooks/66124
